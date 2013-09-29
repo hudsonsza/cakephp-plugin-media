@@ -1,0 +1,25 @@
+{
+    "name": "hudsonsza/media",
+    "type": "cakephp-plugin",
+    "description": "Media is to give you the ability to create and associatie any kind of media with your content",
+    "keywords": [
+        "cakephp",
+        "media"
+    ],
+    "homepage": "http://grafikart.github.io/CakePHP-Media/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grafikart",
+            "email": ""
+        },
+        {
+            "name": "Hudson",
+            "email": "hudson.sza@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "composer/installers": "*"
+    }
+}
